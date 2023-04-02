@@ -18,6 +18,5 @@ public class Main {
         if(p.pilhaVazia()) {
           c2.abreEmail(c1.getMensagem());
         }
-
     }
 }
